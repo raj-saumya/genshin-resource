@@ -1,0 +1,43 @@
+[{
+        "id": "1",
+        "name": "Diluc",
+        "faceIcon": "/images/characters/diluc.png",
+        "element": "pyro"
+    },
+    {
+        "id": "2",
+        "name": "Amber",
+        "faceIcon": "/images/characters/amber.png",
+        "element": "pyro"
+    },
+    {
+        "id": "3",
+        "name": "Bennett",
+        "faceIcon": "/images/characters/bennett.png",
+        "element": "pyro"
+    },
+    {
+        "id": "4",
+        "name": "Jean",
+        "faceIcon": "/images/characters/jean.png",
+        "element": "anemo"
+    },
+    {
+        "id": "5",
+        "name": "Kazuha",
+        "faceIcon": "/images/characters/kazuha.png",
+        "element": "anemo"
+    },
+    {
+        "id": "6",
+        "name": "Raiden",
+        "faceIcon": "/images/characters/raiden.png",
+        "element": "electro"
+    },
+    {
+        "id": "7",
+        "name": "Yae",
+        "faceIcon": "/images/characters/yae.png",
+        "element": "electro"
+    }
+]
